@@ -118,7 +118,7 @@ A threshold of 0.35 was selected to improve recall and identify more potentially
 
 ## 9. API Security
 
-The Gemini API key is entered at runtime and is not included in this repository. Never upload API keys, passwords or other credentials to GitHub.
+The Gemini API key is entered at runtime and is not included in this repository.
 
 ## 10. Conclusion
 
