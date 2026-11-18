@@ -99,9 +99,13 @@ A threshold of 0.35 was selected to improve recall and identify more potentially
 
 | File | Description |
 |---|---|
+| `data/appointments.csv` | Original appointment dataset |
+| `data/clinics.csv` | Original clinic dataset |
+| `data/followup_notes.csv` | Original patient follow-up notes |
 | `01_ingest_clean.ipynb` | Data validation and cleaning |
 | `02_queries.sql` | SQL analysis queries |
 | `03_model.ipynb` | Machine-learning models and evaluation |
+| `04_genai.ipynb` | Gemini API analysis, Pydantic validation, prompt comparison, and Part 4 analysis |
 | `appointments_clean.csv` | Cleaned appointment data |
 | `clinics_enriched.csv` | Clinic data enriched with weather |
 | `rejected_rows.json` | Rejected records |
@@ -110,6 +114,7 @@ A threshold of 0.35 was selected to improve recall and identify more potentially
 | `notes_analysed.csv` | Gemini analysis of follow-up notes |
 | `notes_appointments_merged.csv` | Merged note and appointment data |
 | `root_cause_reminder_crosstab.csv` | Root-cause and reminder analysis |
+
 
 ## 9. API Security
 
