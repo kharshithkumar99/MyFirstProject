@@ -100,8 +100,8 @@ A threshold of 0.35 was selected to improve recall and identify more potentially
 | File | Description |
 |---|---|
 | `01_ingest_clean.ipynb` | Data validation and cleaning |
-| `02_analysis.sql` | SQL analysis queries |
-| `03_modeling.ipynb` | Machine-learning models and evaluation |
+| `02_queries.sql` | SQL analysis queries |
+| `03_model.ipynb` | Machine-learning models and evaluation |
 | `appointments_clean.csv` | Cleaned appointment data |
 | `clinics_enriched.csv` | Clinic data enriched with weather |
 | `rejected_rows.json` | Rejected records |
